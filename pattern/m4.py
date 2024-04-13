@@ -1,3 +1,4 @@
+# Vertical Triangle
 
 n = int(input("Enter a no. "))
 
